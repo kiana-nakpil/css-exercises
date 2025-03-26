@@ -1,0 +1,12 @@
+body {
+    max-width: auto;
+    margin: 0 auto;
+}
+
+div {
+    background: red;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
